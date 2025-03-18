@@ -1,0 +1,3 @@
+[submodule "LICENSES"]
+	path = LICENSES
+	url = git@github.com:tridentiot/LICENSES
