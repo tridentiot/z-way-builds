@@ -1,1 +1,374 @@
-LICENSES/LicenseRef-TridentMSLA.txt
+MASTER SOFTWARE LICENSE AGREEMENT
+
+THIS MASTER SOFTWARE LICENSE AGREEMENT ("AGREEMENT") GOVERNS YOUR USE OF
+TRIDENT IOT, LLC'S ("TRIDENT") LICENSED MATERIALS. INSTALLING, COPYING OR OTHERWISE
+USING THE SOFTWARE, INDICATES YOUR ACCEPTANCE OF THE TERMS OF THIS AGREEMENT 
+REGARDLESS OF WHETHER YOU CLICK THE "ACCEPT" BUTTON IF PROVIDED AS A CLICK-
+THROUGH LICENSE. IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS OR IF YOU ARE 
+NOT AUTHORIZED TO ACCEPT THE TERMS OF THIS LICENSE ON BEHALF OF YOUR EMPLOYER, 
+DECLINE THE LICENSE TERMS AND DO NOT USE THE SOFTWARE OR DOCUMENTATION. IF YOU 
+ARE AGREEING TO BE BOUND BY THIS AGREEMENT ON BEHALF OF YOUR EMPLOYER OR OTHER 
+ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE FULL LEGAL AUTHORITY TO BIND YOUR 
+EMPLOYER OR SUCH ENTITY TO THIS AGREEMENT. THESE TERMS GOVERN YOUR CONTINUED USE 
+OF THE LICENSED MATERIALS THAT YOU DOWNLOAD NOW OR IN THE FUTURE, INCLUDING SUCH 
+ADDITIONAL SOFTWARE MADE AVAILABLE TO YOU THROUGH THE LICENSED MATERIALS YOU 
+HAVE SELECTED, AND ALL UPDATES AND VERSIONS OF SUCH SOFTWARE.
+
+1.	License Grant. Subject to your continued compliance with the terms of this Agreement, including, 
+if applicable, payment of all license fees, Trident hereby grants you a limited, non-transferable, 
+non-exclusive, perpetual (except as provided herein) license to use the  Licensed Materials solely under 
+the terms and conditions set forth below: 
+1.1. 	Source Code. With respect to Software that is delivered to Licensee by Trident in Source Code 
+format, Licensee may:
+
+a)	use the software in Source Code format to develop and compile applications for use in 
+Authorized Applications;
+b)	copy, prepare Derivative Works of, compile and modify Source Code of the Trident 
+Software, solely to enable Licensee to design, develop, modify, test, support and/or 
+debug Derivative Works and/or Licensed Programs that are intended to operate in 
+Authorized Applications;
+c) 	reproduce and distribute Derivative Works to Authorized Subcontractors under 
+agreements consistent with Licensee's rights and obligations under this Agreement 
+solely (a) to modify for Licensee's use in developing and maintaining the Licensed 
+Programs; and (b) to enable Licensee to distribute Licensed Programs externally to End 
+Users in accordance with Section 1.1.e below;
+d)	reproduce and distribute Licensed Programs internally and to Licensee's External 
+Manufacturers under agreements consistent with Licensee's rights and obligations under 
+this Agreement, solely (x) for Licensee's use in developing and maintaining the Licensed 
+Programs; and (y) to enable Licensee to distribute Licensed Programs externally to End 
+Users in accordance with Section 1.1.e below; and
+e)	distribute Licensed Programs externally to Licensee's End Users, either directly or 
+through Licensee's distribution channels and methods, but only for use with Authorized 
+Applications and not on a standalone basis.
+
+1.2. 	Object Code. With respect to Software that is delivered to Licensee by Trident in Object Code 
+format, Licensee may:
+a) 	(x) if the Software is an Embedded Stack, install one copy of the Software and its 
+components all together on a single computer, and if the Software is copied onto another 
+computer, the original copy must be deleted or otherwise made irreversibly inoperable; 
+(y) if the Software is an SDK or a Development Tool, make multiple copies of the 
+Software for your own internal use;
+b) 	store one copy of the Software for archival (non-operational) purposes only, so long as 
+access to such copy is restricted;
+c)	use the Licensed Materials to develop applications to be used to program Trident 
+Devices;
+d)	incorporate the Licensed Materials into Authorized Applications;
+e)	facilitate the integration of the Licensed Materials and Trident Devices into Authorized 
+Applications; and
+f)	distribute copies of the Licensed Materials to Licensee's end-user customers, to the 
+extent such copies are in Object Code form only and are incorporated into Authorized 
+Applications.
+
+2. 	License Restrictions. 
+
+2.1	Except as specifically set forth herein, no licenses are granted by Trident to Licensee by 
+implication or estoppel, and no licenses shall be granted by the parties' course of doing 
+business. The Licensed Materials shall only be used as permitted by this Agreement. Any use of 
+the Licensed Materials not specifically authorized by this Agreement is prohibited. Without 
+limiting the foregoing restriction, and except as authorized by this Agreement, Licensee shall not 
+(i) assign, sublicense, or otherwise transfer the Licensed Materials to any third party; (ii) reverse 
+engineer, decompile, disassemble, alter, add to, delete from, or otherwise modify Software 
+delivered to Licensee in Object Code form or in libraries in the Licensed Materials; (iii) publish 
+the Licensed Materials in any manner that would cause it to become part of the public domain or 
+otherwise become subject to the terms of an Open-Source Software license; (iv) use the 
+Licensed Materials except in conjunction with Trident Devices; (v) distribute the Source Code 
+form of Software to any third party, in whole or in part; and/or (vi) remove any copyright, 
+trademark, patent or other proprietary notices from the Licensed Materials or any portion 
+thereof.
+2.2	If the Software is provided to demonstrate the capability of Trident Devices, it shall be used only 
+for this purpose. Incorporation of the demonstration version of Trident Software into Applications 
+is solely at Licensee's risk and liability and prohibited by the terms of this License. If the 
+Software is provided as Beta Software, such Software may not be used commercially and is 
+provided without warranty of any kind. 
+2.3	Any subsequent distribution or transfer of the Licensed Programs to End Users shall remain 
+subject to the terms and conditions of this Agreement. Whether by execution of an end-user 
+license agreement or other commercially reasonable means, Licensee shall ensure that its End 
+Users' use of the Licensed Programs shall only be permitted if they are incorporated into 
+Authorized Applications. Licensee shall prohibit any further sublicensing, distribution, sale, 
+marketing, reproduction, modification, reverse engineering or decompiling of the Licensed 
+Programs. Licensee may not directly or indirectly charge any fee or otherwise require or accept 
+any type of monetary compensation solely for redistributing the Licensed Materials. This does 
+not apply to the sale of hardware products having the Licensed Materials in object code form 
+embedded within.
+2.4	The Licensed Materials are not licensed, designed, intended, authorized, or warranted for (a) 
+aeronautical, aerospace, military or nuclear applications; (b) FDA Class III or other devices for 
+which FDA premarket approval is required; (c) implantable devices; (d) life support or life 
+endangering applications where failure or inaccuracy might cause death or personal injury; and 
+(e) automotive or transportation applications. Licensee shall be solely and exclusively 
+responsible for any Unauthorized Uses by Licensee, Licensee's Authorized Subcontractors, 
+Licensee's End Users or other sublicensees, and any Unauthorized Use by such Authorized 
+Subcontractors, End Users or sublicensees, with or without the knowledge of Licensee, shall be 
+attributed to Licensee. Licensee agrees to defend and indemnify Trident for all third-party claims 
+and for all damages, costs and fees, including Trident's attorneys' fees, arising from any such 
+Unauthorized Use of the Licensed Materials.
+2.5	All rights and title in and to the Licensed Materials, including without limitation, patents, 
+copyrights, moral rights, trademarks and trade secret rights, belong to Trident or its licensors. 
+Except for the rights expressly granted herein, no other rights are granted to Licensee with 
+respect to the Licensed Materials. Trident may include features in the Software to restrict use of 
+the Software that does not comply with the terms of this Agreement.
+2.6	Trident, Trident IoT and the Trident IoT logo are trademarks of Trident iOt LLC in the United 
+States and other countries. No use of the Trident trademarks by Licensee is implied or 
+consented to by Trident by entering into this Agreement.
+
+3. 	Z-Way License Restrictions. Licensee shall have the rights provided in Section 1.2 above to the Z-Way Controller SDK provided such Software is only utilized for non-commercial purposes. Commercial use of the Z-Way Controller Software is prohibited until such time as Licensee enters into a Commercial Z-Way License with Trident.
+
+4. 	Open-Source Software.
+
+4.1.  	All use of such Open-Source Software by Licensee is subject to the terms of the relevant open- 
+source software license and Licensee's use of such Software is expressly conditioned upon 
+Licensee's compliance with the term of such license.
+4.2	With respect to Software that is not Open-Source Software, Licensee shall not (i) cause the 
+Software to become subject to any Open-Source Software license, including but limited to the 
+general public license (GPL) or the lesser general public license (LGPL), (ii) cause the Software 
+to be disclosed into the public domain or to any third party except for those third parties to whom 
+License is authorized to distribute Licensed Programs under Sections 1.1.e or 1.2.f, or (iii) 
+cause any part of the Software to become a derivative of any Open-Source Software.
+4.3. 	Licensee shall not enable or permit any of its End Users to breach the provisions of this Section 
+4, and shall include similar restrictive provisions in its end user license agreement with such End 
+Users. If Licensee breaches this Section 4, Licensee shall indemnify and hold Trident harmless 
+from all costs, claims, settlements and judgments incurred by Trident, including attorneys' fees, 
+in the process of defending, challenging and/or settling any demand, claim or order that the 
+Software is subject to an Open-Source Software license or must be disclosed into the public 
+domain or to any third party.
+
+5. 	Modified Open-Source Software. Notwithstanding the terms of the Open-Source Software license 
+under which the Open-Source Software is licensed, the following terms apply to modifications to such 
+Open-Source Software that constitute Modified Open-Source Software, as defined in this Agreement. 
+The following terms apply regardless of how the Modified Open-Source Software was delivered to you: 
+(i) you may not use Modified Open-Source Software except for use with Licensed Programs that are 
+intended to operate in Authorized Applications and (ii) you may not obscure, modify or remove copyright 
+notices, files or statements concerning ownership by Trident or reference to the terms of this 
+Agreement. Subject to compliance with these limitations, (x) you may copy and compile the Source 
+Code of the Modified Open-Source Software, (y) you may reproduce the Object Code and Source Code 
+versions of Modified Open-Source Software and distribute the same through multiple levels of 
+distributions, including to your External Manufacturers and (z) you may modify Modified Open-Source 
+Software and create Derivative Works of Modified Open-Source Software.
+
+6. 	Inspection Rights. Trident shall have the right, upon reasonable advance notice, to inspect Licensee's 
+records and facilities with respect to the manufacture of Applications and to receive sample units of 
+Applications in order to verify that such manufacturing and the use of the Software is within the scope 
+of this Agreement, that there are appropriate security procedures to protect Trident Confidential 
+Information, and that Licensee is in compliance with its other obligations under this Agreement.
+
+7. 	Upgrades, Updates, New Versions. Trident may introduce updates, upgrades or new versions of the 
+Software from time to time. Except as agreed by the parties, the licenses granted to Licensee pursuant 
+to this Agreement shall be deemed to include such updates, upgrades and new versions. In the case of 
+any bug fix, improvement, work-around, or correction made to the Software by Licensee, Licensee 
+agrees to provide to Trident, at no cost, the source code and any documentation reasonably required 
+for Trident to be able to incorporate such changes into the Trident Software. Licensee agrees that it 
+shall implement any newly provided Software to the extent the Software is provided by Trident to 
+resolve a claim of IP infringement and shall indemnify Trident for all liability arising out of its failure to do 
+so.
+
+8. 	Regulatory Compliance. Unless specifically provided to the contrary in writing, Trident does not 
+warrant that Software or any Application will comply with the regulatory requirements of the United 
+States or any other country. Licensee is solely responsible for complying with such requirements and 
+for obtaining necessary government certifications, if any.
+
+9. 	License Fee and Royalties. Unless Licensee has executed a Commercial License with Trident, 
+Licensee is not obligated to pay any license fee or royalties  so as long as Licensee complies with the 
+terms of the licenses set forth herein.  If  Licensee has executed a Commercial License, Licensee 
+agrees to pay all license, maintenance and subscription fees described in the Commercial license 
+agreement. 
+
+10. 	Confidential Information. You agree that the Licensed Materials contain confidential information, 
+including trade secrets, know-how and other information, that comprise the exclusive property of Trident 
+or its licensors. During the period this Agreement is in effect and at all times after its termination, you 
+shall maintain the confidentiality of this information and shall not sell, license, sublicense, publish, 
+display, distribute, disclose or otherwise make available this information to any third party nor use such 
+information except as authorized by this Agreement.
+
+11. 	Limited Warranty and Remedies. Trident warrants that, during the Warranty Period, the Software will 
+function substantially in accordance with the Documentation when used with Trident Devices and that 
+the media on which the Software is furnished will be free from defects in material and workmanship, 
+under normal use and service, when correctly installed and maintained. Trident does not warrant that 
+the functions in the Licensed Materials will meet Licensee's specific requirements or that the operation 
+of the Software will be uninterrupted or error free. Trident does not warrant that the Software does not 
+contain any viruses or bugs. If Licensee notifies Trident, during the Warranty Period, of a failure of the 
+Software to conform to the limited warranty stated in this section, Trident's sole obligation, and 
+Licensee's sole remedy, will be, at Trident's sole discretion: (i) replacement of the Software, or part 
+thereof, with a functionally equivalent software product or part, or (ii) repair of the Software. Without 
+limiting any term or condition stated in this Agreement, this warranty does not apply to any 
+nonconformance caused by (A) improper or inadequate maintenance or calibration, or (B) software or 
+interfacing equipment, parts or supplies not supplied by Trident or its authorized distributor, (C) 
+modifications to the Software or (D) Unauthorized Use of the Software.
+
+12. 	WARRANTY DISCLAIMER.
+EXCEPT AS PROVIDED IN SECTION 11, THE LICENSED MATERIALS ARE PROVIDED "AS IS" 
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT 
+LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, OR NON-INFRINGEMENT AND THE ENTIRE RISK AS TO THE QUALITY AND 
+PERFORMANCE OF THE LICENSED MATERIALS IS WITH LICENSEE. YOU ARE SOLELY 
+RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEMS OR OTHER DEVICES AS A 
+RESULT OF THE DOWNLOAD OR USE OF ANY LICENSED MATERIALS OR LOSS OF DATA THAT 
+RESULTS FROM SUCH USE. TRIDENT DOES NOT WARRANT THAT THE LICENSED MATERIALS 
+ARE FREE FROM DEFECTS THAT COULD CAUSE VULNERABILITY TO CYBER-ATTACK, DATA 
+BREACH OR PRIVACY VIOLATIONS. TRIDENT DISCLAIMS ALL LIABILITY RELATED TO 
+LICENSEE'S DATA THAT MAY BE RECEIVED, STORED OR USED BY TRIDENT DEVICES OR 
+SOFTWARE OR INTERCEPTED BY THIRD PARTIES. TRIDENT DISCLAIMS ALL LIABILITY FOR 
+DAMAGES CAUSED BY THIRD PARTIES, INCLUDING MACILICOUS USE OF, OR INTEFERENCE 
+WITH TRANSMISSION OF, LICENSEE'S DATA.
+
+13. 	LIMITATION OF LIABILITY.
+TRIDENT'S SOLE OBLIGATION OR LIABILITY UNDER THIS AGREEMENT IS THE REPAIR OR 
+REPLACEMENT OF THE LICENSED MATERIALS ACCORDING TO THE LIMITED WARRANTY 
+ABOVE. IN NO EVENT SHALL TRIDENT OR ANY OF ITS AFFILIATES OR LICENSORS BE LIABLE 
+FOR DIRECT, INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, EXEMPLARY OR SIMILAR 
+DAMAGES THAT MAY BE INCURRED BY YOU, SUCH AS (BUT NOT LIMITED TO) LOSS OF 
+BUSINESS REVENUES, PROFITS OR SAVINGS OR LOSS OF DATA RESULTING FROM THE USE 
+OR INABILITY TO USE THE LICENSED MATERIALS, EVEN IF TRIDENT HAS BEEN ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY THIRD PARTY. THIS 
+INCLUDES, BUT IS NOT LIMITED TO, DAMAGES ARISING FROM THE FAILURE OF THE 
+TRIDENT DEVICE TO TRANSMIT DATA ARISING FROM A FAILURE OF THE SOFTWARE TO 
+PERFORM IN SUBSTANTIAL ACCORDANCE WITH THE DOCUMENTATION. IN NO EVENT SHALL 
+THE TOTAL CUMULATIVE LIABILITY OF TRIDENT TO LICENSEE FOR ALL MATTERS RELATED 
+TO THE LICENSED MATERIALS EXCEED THE AMOUNT PAID BY LICENSEE TO TRIDENT FOR 
+SUCH LICENSED MATERIALS OR ONE UNITED STATES DOLLAR ($100.00 USD). YOU 
+ACKNOWLEDGE THAT THE AMOUNT PAID BY YOU FOR THE LICENSED MATERIALS 
+REFLECTS THIS ALLOCATION OF RISK.  
+
+14.	Indemnification. To the maximum extent permitted by law, you agree to defend, indemnify and hold 
+harmless Trident, its affiliates and their respective directors, officers, employees and agents from and 
+against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, 
+damages, costs and expenses (including reasonable attorneys' fees) arising out of or accruing from (a) 
+your use of the SDK, (b) any application you develop on the SDK that infringes any copyright, 
+trademark, trade secret, trade dress, patent or other intellectual property right of any person or defames 
+any person or violates their rights of publicity or privacy, (c) your use of any Software and (d) any non-
+compliance by you with the License Agreement. 
+
+15. 	Term and Termination. This Agreement will take effect on the date the Licensed Materials are 
+acquired by or delivered to Licensee and will remain in effect unless terminated as provided below. If 
+you breach any of your obligations under this Agreement, this Agreement will immediately and 
+automatically terminate. You may terminate this Agreement at any time by destroying all copies of the 
+Licensed Materials. Upon termination of this Agreement, you shall immediately discontinue the use of 
+the Licensed Materials and shall return or provide certification to Trident of the destruction of all copies 
+of the Licensed Materials. You may keep one copy of the Licensed Materials for archival (non-
+operational) purposes only, so long as access to such copies is restricted. If the Agreement is 
+terminated by Trident for a reason other than your failure to pay any fees as they become due or your 
+breach of this Agreement, you may continue to distribute copies of the Software already installed in 
+finished inventory, but you may not make any additional copies or install the Software in additional 
+products. All provisions of this Agreement relating to disclaimers of warranties, limitation of liability, 
+remedies or damages, indemnification and Trident's proprietary rights, shall survive any termination of 
+this Agreement for any reason.
+
+16. 	Export Restrictions.
+LICENSEE ACKNOWLEDGES THAT THE LICENSED TECHNOLOGY INCLUDES ENCRYPTION 
+SUBJECT TO UNITED STATES LAWS AND REGULATIONS FOR EXPORT AND REEXPORT 
+PURPOSES. LICENSEE MUST COMPLY WITH ALL DOMESTIC AND INTERNATIONAL EXPORT 
+LAWS AND REGULATIONS THAT APPLY TO THE LICENSED MATERIALS. THESE LAWS 
+INCLUDE RESTRICTIONS ON DESTINATIONS, END USERS, AND END USE. LICENSEE AGREES 
+THAT IT WILL NOT EXPORT, RE-EXPORT OR TRANSFER THE LICENSED MATERIALS, 
+MODIFICATIONS, CONFIDENTIAL INFORMATION OR ANY PRODUCTS DEVELOPED WITH OR 
+UTILIZING THE LICENSED MATERIALS, MODIFICATIONS OR CONFIDENTIAL INFORMATION, IN 
+VIOLATION OF ANY APPLICABLE LAWS OR REGULATIONS OF THE UNITED STATES OR THE 
+COUNTRY WHERE THE LICENSED MATERIALS OR CONFIDENTIAL INFORMATION WERE 
+OBTAINED. LICENSEE IS RESPONSIBLE FOR OBTAINING ANY LICENSES OR 
+AUTHORIZATIONS REQUIRED TO EXPORT, RE- EXPORT, TRANSFER OR IMPORT ANYTHING 
+DEVELOPED HEREUNDER
+
+17. 	Amendments. This Agreement may be amended unilaterally by Trident at any time. The most recent 
+version of this Agreement supersedes and replaces all prior versions. In the event of any conflicting 
+terms, the terms of the most recent version of this Agreement shall control.
+
+18. 	Governing Law. This Agreement shall be governed by the laws of the State of California, United States 
+of America, without regard to that state's conflicts of laws rules. The 1980 United Nations Convention 
+on Contracts for the International Sale of Goods shall not apply. In any dispute arising out of this 
+Agreement, the parties each consent to the exclusive personal jurisdiction and venue in the State and 
+Federal courts located within San Diego County, California, United States of America. All disputes 
+concerning this Agreement shall be resolved by binding arbitration in San Diego, California before a 
+single arbitrator. The arbitration shall be administered by JAMS pursuant to JAMS' Streamlined 
+Arbitration Rules and Procedures. The arbitration award shall include an award of attorneys' fees to the 
+prevailing party. Judgment on the award may be entered in any court having jurisdiction. This clause 
+shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of 
+appropriate jurisdiction. Notwithstanding the foregoing, Licensee acknowledges that Licensee's breach 
+of this Agreement shall cause irreparable injury to Trident for which Trident may not have an adequate 
+remedy at law. Trident shall be entitled to equitable relief in court, including but not limited to temporary 
+restraining orders, preliminary injunctions and permanent injunctions in addition to all other available 
+remedies.
+
+19. 	Commercial Computer Software. If Licensee is an agency of the U.S. Government, the following will 
+apply: The Software has been developed entirely at private expense, is regularly used for 
+nongovernmental purposes and has been licensed to the public. The Software is a "commercial item" 
+as that term is defined in 48 C.F.R. 2.101 (Oct. 1995), consisting of "commercial computer software" 
+and "commercial computer software documentation" as those terms are used in 48 C.F.R. 12.212 
+(Sept. 1995) or as "commercial computer software" as that term is defined in 48 C.F.R. 252.227-7014 
+(June 1995) or any equivalent agency regulation or contract clause, whichever is applicable. Consistent 
+with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government 
+agencies acquire only those rights to the Software as are expressly set forth herein.
+
+20. 	Miscellaneous. This Agreement sets forth the entire agreement and understanding between the 
+parties and neither party shall be bound by any conditions, definitions, warranties, understandings or 
+representations with respect to the subject matter hereof other than as provided herein or as duly set 
+forth on or after the date hereof in writing and signed by a proper and duly authorized representative of 
+the party to be bound thereby. The failure of any party at any time to require performance of any 
+provision of this Agreement shall not affect the right of such party to enforce the terms of this 
+Agreement at a later time. No waiver by any party of any condition or of any breach of any term 
+contained in this Agreement, in any one or more instances, shall be construed as a further or continuing 
+waiver of any such condition or of any breach of any such term or any other term set forth in this 
+Agreement. If any provision of this Agreement is unenforceable for any reason, the remaining terms of 
+the Agreement shall not be deemed invalid, inoperative, or unenforceable and, if possible, the 
+unenforceable provision shall be modified or interpreted in a manner to make it enforceable.
+
+21. 	Definitions.
+"Application" means a product developed by Licensee, or for Licensee by a third party, that contains 
+Licensed Programs.
+"Authorized Application" means an Application that contains, integrates, is packaged with, or functions 
+with a Trident Device in Licensee's Application. 
+"Authorized Subcontractor" means a third-party subcontractor that you engage to design or 
+manufacture Authorized Applications and has executed an agreement that is consistent with the terms 
+of this Agreement, including its confidentiality provisions. At all times, you shall remain responsible for 
+the actions or non-actions of your Authorized Subcontractors the same as if the action or non-action 
+was committed by you.
+"Beta Software" means Software that has not undergone GA (generally available) testing which is 
+provided on an "as-is" basis for testing and not for commercial use. Beta Software is provided without 
+warranty and is used by you at your sole risk.
+"Derivative Works" means a work based upon the Source Code version of the Software, such as a 
+revision, modification, translation, abridgment, condensation, expansion or any other form in which 
+such Software may be recast, transformed or adapted, and that, if prepared without authorization from 
+Trident, would constitute copyright infringement.
+"Development Tool" means a software provided by Trident to enable development of Authorized 
+Applications, configuration of Trident Devices and Software.
+"Documentation" means Trident technical documentation related to the Software, excluding advertising 
+or marketing materials.
+"Embedded Stacks" means Software that is stack libraries, application layers, and example code.
+"End User" means a purchaser, sublicensee, recipient and/or user of an Application obtained directly or 
+indirectly from Licensee.
+"External Manufacturers" means a third-party manufacturer, including such manufacturer's 
+subcontractors and agents, which is authorized by Licensee to design and/or manufacture the 
+Applications and to use, install, and test the Applications and the Licensed Programs.
+"Firmware" means executable or binary code that is embedded in the Trident Device in ROM or flash 
+memory and cannot be modified by Licensee.
+"Licensee" or "you" means the acquirer of the license rights granted by this Agreement. If you are an 
+individual working solely on your own behalf, then you are the Licensee. If you are an employee 
+working on behalf of your employer, then your employer is the Licensee and you confirm that you are 
+authorized to accept the terms of this Agreement on behalf of your Employer.
+"Licensed Programs" means Software in Object Code form that was either originally in Object Code 
+form or was compiled from the Software or Derivative Works and is designed to operate in Applications 
+in Authorized Applications.
+"Licensed Materials" means Software and the related Documentation including all updates and 
+upgrades of the foregoing.
+"Modified Open-Source Software" means Trident's modifications to Open-Source Software that was 
+created by a third party.
+"Object Code" means computer programming code in binary form suitable for machine execution by a 
+processor without the intervening steps of interpretation or compilation.
+"Open-Source Software" means the Source Code version of software that may be freely used, modified 
+or distributed without payment of a license fee or royalties subject to the terms of a publicly available 
+software license, excluding Modified Open-Source Software, the use of which is subject to the terms of 
+this Agreement.
+"SDK" means software development kit. To the extent Software is provided with the SDK, it may be 
+used solely for development to enable use of Software with a Trident Device. 
+"Software" means the computer programing code that was downloaded or otherwise distributed to 
+Licensee and which is the subject of this Agreement. Software may be in Object Code or Source Code 
+form or may be embedded as Firmware in a Trident Device. Software includes Embedded Stacks, 
+SDKs and Development Tools. Your rights are different depending on whether the Software is delivered 
+to you in Object Code, Source Code or Firmware. 
+"Source Code" means the computer programming code in an uncompiled form readable by humans 
+which cannot be executed by a processor unless it is compiled into binary form.
+"Third Party Software" means any software that Trident has licensed from a third party.
+"Trident Devices" means Trident branded integrated circuit chips purchased from Trident or one of its 
+authorized distributors.
+"Warranty Period" means the period of time ending thirty (30) days after the first delivery of the 
+Software to the Licensee, whether such delivery is in the form of a download or actual physical delivery. 
+The Warranty Period is not extended by the delivery of any update, upgrade, new version, patch or bug 
+fix provided.
+Rev 1.0
