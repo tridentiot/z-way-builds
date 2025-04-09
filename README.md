@@ -20,4 +20,4 @@ Z-Wave certification-related information can be found in [Z-Way Certification Do
 
 ## License
 
-For commercial usage please consult the [Tridnt IoT Master Service License Agreement](https://github.com/tridentiot/z-way-builds/tree/license-update?tab=License-1-ov-file)
+For commercial usage please consult the [Trident IoT Master Software License Agreement](https://github.com/tridentiot/z-way-builds/tree/license-update?tab=License-1-ov-file)
