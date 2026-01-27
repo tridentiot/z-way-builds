@@ -8,7 +8,7 @@ This repository contains Z-Way builds for popular supported platforms:
 
 [Latest release](https://github.com/tridentiot/z-way-builds/releases/latest) is the latest stable release of Z-Way.
 
-[Nightly builds](https://github.com/tridentiot/z-way-builds/releases/tag/nighly) are based on daily builds of Z-Way basde on the upstream code branch. Use them **at your own risk**.
+[Nightly builds](https://github.com/tridentiot/z-way-builds/releases/tag/nightly) are based on daily builds of Z-Way basde on the upstream code branch. Use them **at your own risk**.
 
 ## Getting help
 
